@@ -1,2 +1,10 @@
 # CS-255-T1148-System-Analysis-and-Design
 Here is my work for the class System Analysis and Design where I worked on many charts and diagrams to represent systems and how they function.
+
+The files added were my work done on a solo project. I was given an interview to direive requirements from and turn those into the use cases. These diagrams show the evolution of these use cases into diagrams. I had to design a system to allow customer to buy lessons from a company called DriverPass. My system supported them buying lessons, scheduling lesson, admin support, interface to show the user's information, log in system to verify the user's identity, and system to recover an account if the password is lost.
+
+I believe the diagram i made work well in explaining the system i have imaginaged that give great insight into how the logic works. The systems felt complicated and overwhelming until i was able to put them into a diagram and it gave me a visualization of the information transfer. The time into the diagrams proved benefitifical to enhance my understanding of complex systems.
+
+The client wanted many systems to allow for ease of access to customers. He wanted a mobile system to allow people to see their scheduling on the go, a reminder to go out about appointments a day before the lesson, and admin recovery system if the customer needed account help. all these lead to me building systems to aid in the ease of use for the customer. I gave the customer multiple ways to recover a password, a nonfunctionm requirement was speed of log in attempts because of the frustration that can mount from failed attempts taking longer, and tha ability to savepayment information on a profile so that a returning customer has a quicker and easier way to make a purchase.
+
+When designing software i think of serveral issues i haved faced with software i use. The big and small, I use these experiences to aid in my thought process. These experience lead to figuring out the soulutions to problems, maybe a solution i have already seen or a failsafe incase we have a similar fault that other programs of the same nature tend to have.
